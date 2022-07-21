@@ -1,0 +1,30 @@
+
+.title {
+    font-weight: bolder;
+ }
+ .title a {
+     margin-top: 40px;
+ }
+ .Slide_title i {
+     position: relative;
+     top: 200px;
+     background-color: #f1ebeb;
+     border-radius: 50%;
+     color: black;
+ }
+ .fb {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+ }
+ .fb i {
+     position: relative;
+     top: 20px;
+ }
+ .boxing .card-content {
+     padding: 20px 0;
+ }
+ .slider .indicators .indicator-item {
+     display: none;
+ }
+ 
